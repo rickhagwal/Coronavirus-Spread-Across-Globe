@@ -1,0 +1,86 @@
+,Website,URL,Headline,Entities
+1,CNN,https://www.cnn.com/world/live-news/coronavirus-pandemic-05-28-20-intl/index.html,What you need to know,[]
+2,CNN,https://www.cnn.com/world/live-news/coronavirus-pandemic-05-28-20-intl/index.html,CNN's town hall on the coronavirus has ended,"[('CNN', 'ORG')]"
+3,CNN,https://www.cnn.com/world/live-news/coronavirus-pandemic-05-28-20-intl/index.html,"The loss of community during Covid-19 is ""tragic and traumatizing,"" says actress Taraji P. Henson","[('Taraji P. Henson', 'PERSON')]"
+4,CNN,https://www.cnn.com/world/live-news/coronavirus-pandemic-05-28-20-intl/index.html,"Actress Taraji P. Henson: ""I'm trying to stop a bleeding wound and it just keeps bleeding""","[('Actress Taraji P. Henson', 'PERSON')]"
+5,CNN,https://www.cnn.com/world/live-news/coronavirus-pandemic-05-28-20-intl/index.html,Here's how you can protect yourself when eating at a restaurant,[]
+6,CNN,https://www.cnn.com/world/live-news/coronavirus-pandemic-05-28-20-intl/index.html,"The six-foot social distancing recommendation is a ""rule of thumb,"" experts say","[('six-foot', 'QUANTITY')]"
+7,CNN,https://www.cnn.com/world/live-news/coronavirus-pandemic-05-28-20-intl/index.html,Writer predicted killer pathogen similar to coronavirus 8 years ago,"[('Writer', 'ORG'), ('8 years ago', 'DATE')]"
+8,CNN,https://www.cnn.com/world/live-news/coronavirus-pandemic-05-28-20-intl/index.html,Brazil hits record high for new coronavirus cases,"[('Brazil', 'GPE')]"
+9,CNN,https://www.cnn.com/world/live-news/coronavirus-pandemic-05-28-20-intl/index.html,CNN's global town hall on the coronavirus pandemic will start soon,"[('CNN', 'ORG')]"
+10,NBC,https://www.nbcnews.com/health/coronavirus,"An American tragedy: As we mourn 100,000, U.S. reckons with its flaws and promise","[('American', 'NORP'), ('100,000', 'CARDINAL'), ('U.S.', 'GPE')]"
+11,NBC,https://www.nbcnews.com/health/coronavirus,Live Blog / Latest news on the global pandemic,[]
+12,NBC,https://www.nbcnews.com/health/coronavirus,How private jet owners got a subsidy from coronavirus relief funds,[]
+13,NBC,https://www.nbcnews.com/health/coronavirus,"Cancer, coronavirus are a dangerous mix, new studies find",[]
+14,NBC,https://www.nbcnews.com/health/coronavirus,Lawsuit says Trump admin order unfairly separates immigrant parents from older kids,"[('Lawsuit', 'ORG'), ('Trump', 'PRODUCT')]"
+15,NBC,https://www.nbcnews.com/health/coronavirus,"Enforcement of social distancing shows familiar pattern of racial disparity, experts say",[]
+16,NBC,https://www.nbcnews.com/health/coronavirus,"Wisconsin reports record number of new coronavirus cases, deaths","[('Wisconsin', 'GPE')]"
+17,NBC,https://www.nbcnews.com/health/coronavirus,Have you lost your job during the pandemic? Tell us your story,[]
+18,NBC,https://www.nbcnews.com/health/coronavirus,Historically black college gets federal boost in testing coronavirus drug,[]
+19,NBC,https://www.nbcnews.com/health/coronavirus,Trump eager for July Fourth celebration in D.C. despite coronavirus pandemic,"[('July Fourth', 'DATE'), ('D.C.', 'GPE')]"
+20,NBC,https://www.nbcnews.com/health/coronavirus,The one group that is happy about the destruction caused by coronavirus,"[('one', 'CARDINAL')]"
+21,NBC,https://www.nbcnews.com/health/coronavirus,Coronavirus reopenings give divorced parents one more thing to argue about,"[('Coronavirus', 'ORG'), ('one', 'CARDINAL')]"
+22,NBC,https://www.nbcnews.com/health/coronavirus,Memorial Day crowds were a wake-up call — states need mandatory masks now,"[('Memorial Day', 'GPE')]"
+23,NBC,https://www.nbcnews.com/health/coronavirus,Trump's scapegoating of Asian Americans is an affront to all Americans,"[('Trump', 'PERSON'), ('Asian Americans', 'NORP'), ('Americans', 'NORP')]"
+24,NBC,https://www.nbcnews.com/health/coronavirus,Comedy is no coronavirus vaccine. But can it make living through a pandemic easier?,[]
+25,NBC,https://www.nbcnews.com/health/coronavirus,Arguments over reclining are so yesterday. Here’s what the future of flying looks like.,"[('yesterday', 'DATE')]"
+26,NBC,https://www.nbcnews.com/health/coronavirus,"When coronavirus' toll on long-term care became personal, a reporter began tracking the numbers",[]
+27,NBC,https://www.nbcnews.com/health/coronavirus,Reverend Al Sharpton on the killing of Ahmaud Arbery and the fight for justice,"[('Al Sharpton', 'PERSON')]"
+28,NBC,https://www.nbcnews.com/health/coronavirus,"Doctors, nurses and hospital staff",[]
+29,NBC,https://www.nbcnews.com/health/coronavirus,Small businesses and their employees,[]
+30,NBC,https://www.nbcnews.com/health/coronavirus,Senior citizens and the elderly,[]
+31,NBC,https://www.nbcnews.com/health/coronavirus,What cleaning products kill the coronavirus?,[]
+32,NBC,https://www.nbcnews.com/health/coronavirus,Are at-home testing kits available?,[]
+33,NBC,https://www.nbcnews.com/health/coronavirus,Can you catch COVID-19 twice? ,[]
+34,NBC,https://www.nbcnews.com/health/coronavirus,"Gyms are eager to reopen, but are they safe?",[]
+35,NBC,https://www.nbcnews.com/health/coronavirus,How will coronavirus change the way we fly?,[]
+36,NBC,https://www.nbcnews.com/health/coronavirus,It's been 2 months since the first U.S. coronavirus death. Here's a look at some of the lives lost.,"[('2 months', 'DATE'), ('first', 'ORDINAL'), ('U.S.', 'GPE')]"
+37,NBC,https://www.nbcnews.com/health/coronavirus,"Affairs, hoarders and hope: Read anonymous confessions in the time of the coronavirus",[]
+38,NBC,https://www.nbcnews.com/health/coronavirus,Coronavirus: What you need to know,[]
+39,NBC,https://www.nbcnews.com/health/coronavirus,MSNBC Special Report: Testing and the Road to Reopening,"[('MSNBC', 'ORG')]"
+40,NBC,https://www.nbcnews.com/health/coronavirus,'Into The Red Zone': An NBC News NOW documentary ,"[(""The Red Zone'"", 'ORG'), ('NBC News', 'ORG')]"
+41,NBC,https://www.nbcnews.com/health/coronavirus,Portrait of a neighborhood under lockdown,[]
+42,NBC,https://www.nbcnews.com/health/coronavirus,Photos capture empty cities across the globe,[]
+43,NBC,https://www.nbcnews.com/health/coronavirus,New Yorkers are giving nightly ovations to health workers. These are their portraits,"[('New Yorkers', 'NORP')]"
+44,NBC,https://www.nbcnews.com/health/coronavirus,Map: Track coronavirus deaths around the world,[]
+45,NBC,https://www.nbcnews.com/health/coronavirus,Chart: See the day-by-day size of the coronavirus outbreak,[]
+46,NBC,https://www.nbcnews.com/health/coronavirus,Map of how many coronavirus cases have been confirmed across the country,[]
+47,NBC,https://www.nbcnews.com/health/coronavirus,Spike in South Korean cases prompts alarm and a new crackdown,"[('South Korean', 'NORP')]"
+48,NBC,https://www.nbcnews.com/health/coronavirus,Track America's stunning unemployment surge,"[('America', 'GPE')]"
+49,NBC,https://www.nbcnews.com/health/coronavirus,Siberian zoo sees animal baby boom during lockdown,"[('Siberian', 'NORP')]"
+50,NBC,https://www.nbcnews.com/health/coronavirus,Dem lawmaker goes on epic rant after GOP colleague admits hiding positive coronavirus test,"[('GOP', 'ORG')]"
+51,NBC,https://www.nbcnews.com/health/coronavirus,'An ego trip': Pelosi blasts Trump's insistence that Republican convention occur,"[('Pelosi', 'CARDINAL'), ('Trump', 'PRODUCT'), ('Republican', 'NORP')]"
+52,NBC,https://www.nbcnews.com/health/coronavirus,Why Main Street is suffering while Wall Street is soaring,[]
+53,NBC,https://www.nbcnews.com/health/coronavirus,Asymptomatic COVID-19 cases may be more common than suspected,[]
+54,NBC,https://www.nbcnews.com/health/coronavirus,Blood test nears for COVID-linked syndrome in children,"[('COVID', 'ORG')]"
+55,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,Latest news for health care. ,[]
+56,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,Federal authorities unmasked a massive coronavirus scheme to sell a foreign government 50 million N95 face masks that didn't actually exist. That government wired $317 million to pay for the fictional masks,"[('50 million', 'CARDINAL'), ('N95', 'ORG'), ('$317 million', 'MONEY')]"
+57,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,The announcement of the new test comes as the U.S. has failed to substantially increase its capacity to test for Covid-19 broadly throughout the population.,"[('U.S.', 'GPE')]"
+58,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Staff and teachers at Bright Horizons' facilities are required to wear masks, according to CEO Stephen Kramer.","[(""Bright Horizons'"", 'ORG'), ('Stephen Kramer', 'PERSON')]"
+59,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"From Monday, six people in England will now be able to meet up outside each other's homes, so long as they comply with social-distancing requirements.","[('Monday', 'DATE'), ('six', 'CARDINAL'), ('England', 'GPE')]"
+60,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"""The key here is also to understand, this is the population with a low risk,"" University of Miami President Dr. Julio Frenk told CNBC on Thursday.","[('University of Miami', 'ORG'), ('Julio Frenk', 'PERSON'), ('CNBC', 'ORG'), ('Thursday', 'DATE')]"
+61,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,New York Gov. Andrew Cuomo announced an executive order Thursday to authorize businesses to deny entry to people who are not wearing masks or face coverings.,"[('New York', 'GPE'), ('Andrew Cuomo', 'PERSON'), ('Thursday', 'DATE')]"
+62,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,Can Ebola vaccine technology be used to combat Covid-19? Meg Tirrell interviews Dr. Mark Feinberg about IAVI's research and partnership with Merck.,"[('Tirrell', 'ORG'), ('Mark Feinberg', 'PERSON'), ('IAVI', 'ORG'), ('Merck', 'ORG')]"
+63,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"New York Gov. Andrew Cuomo is holding his daily press conference on the Covid-19 outbreak, which has infected more than 364,900 people across the state as of Thursday.","[('New York', 'GPE'), ('Andrew Cuomo', 'PERSON'), ('more than 364,900', 'CARDINAL'), ('Thursday', 'DATE')]"
+64,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,The United States accounts for more than 28% of Covid-19 deaths worldwide. President Donald Trump in January played down the risk of coronavirus in the country.,"[('The United States', 'GPE'), ('more than 28%', 'PERCENT'), ('Donald Trump', 'PERSON'), ('January', 'DATE')]"
+65,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Nevada Gov. Steve Sisolak gave casinos the green light to reopen on June 4, and several, including Caesars Palace, Bellagio, MGM Grand and Wynn Resorts, have announced plans to resume operations then.","[('Nevada', 'GPE'), ('Steve Sisolak', 'PERSON'), ('June 4', 'DATE'), ('Caesars Palace', 'ORG'), ('Bellagio', 'ORG'), ('MGM Grand', 'ORG'), ('Wynn Resorts', 'PERSON')]"
+66,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"The coronavirus has infected more than 5.71 million people around the world as of Thursday, killing at least 356,124 people.","[('more than 5.71 million', 'CARDINAL'), ('Thursday', 'DATE'), ('at least 356,124', 'CARDINAL')]"
+67,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,Dow futures rise again Thursday after weekly government data pushed coronavirus-driven jobless claims to over 40 million.,"[('Thursday', 'DATE'), ('weekly', 'DATE'), ('over 40 million', 'CARDINAL')]"
+68,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,The researchers' findings come from observations aboard a 21-day expedition cruise to the Antarctic.,"[('Antarctic', 'ORG')]"
+69,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,Quest Diagnostics also announced a set of new testing and screening services for employers as more U.S. workers return to the job.,"[('Quest Diagnostics', 'GPE'), ('U.S.', 'GPE')]"
+70,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Black Americans continue to make up a disproportionate share of Covid-19 fatalities as the number of deaths from the coronavirus pandemic exceeds 100,000 in the U.S., according to an analysis of data from the CDC.","[('Americans', 'NORP'), ('100,000', 'CARDINAL'), ('U.S.', 'GPE'), ('CDC', 'ORG')]"
+71,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Around 5.5 million people have contracted the coronavirus across the globe, with the U.S. accounting for roughly 30% of total cases.","[('Around 5.5 million', 'CARDINAL'), ('U.S.', 'GPE'), ('roughly 30%', 'PERCENT')]"
+72,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,Can Ebola vaccine technology be used to combat Covid-19? Meg Tirrell interviews Dr. Mark Feinberg about IAVI's research and partnership with Merck.,"[('Tirrell', 'ORG'), ('Mark Feinberg', 'PERSON'), ('IAVI', 'ORG'), ('Merck', 'ORG')]"
+73,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"New York Gov. Andrew Cuomo told Republican lawmakers on Wednesday to ""stop abusing"" states like New York, New Jersey and California that are in need of federal aid because of Covid-19.","[('New York', 'GPE'), ('Andrew Cuomo', 'PERSON'), ('Republican', 'NORP'), ('Wednesday', 'DATE'), ('New York', 'GPE'), ('New Jersey', 'GPE'), ('California', 'GPE')]"
+74,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"New research by The Foresight Companies reveals that online price transparency and live-streaming of funeral services may be the norm going forward, even as the country begins to open up.",[]
+75,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"""There is no empirical evidence at this point that these drugs work in this case either for treatment or for prophylaxis,"" said Mike Ryan, executive director of the WHO's emergencies program.","[('Mike Ryan', 'PERSON'), ('WHO', 'ORG')]"
+76,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"New York Gov. Andrew Cuomo is holding his daily press conference on the Covid-19 outbreak, which has infected more than 363,800 people across the state as of Wednesday.","[('New York', 'GPE'), ('Andrew Cuomo', 'PERSON'), ('more than 363,800', 'CARDINAL'), ('Wednesday', 'DATE')]"
+77,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"It remains unclear whether people who have been infected with the coronavirus are at risk of becoming infected again, WHO says.","[('WHO', 'ORG')]"
+78,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"New York City is in the process of figuring out when and how to reopen restaurants and bars safely with public health measures, Mayor Bill de Blasio said Wednesday.","[('New York City', 'GPE'), ('Bill de Blasio', 'PERSON'), ('Wednesday', 'DATE')]"
+79,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Boeing is laying off more than 6,000 employees this week in a bid to cut costs as the coronavirus roils demand for air travel. The company aims to reduce its head count, which numbered more than 160,000 in 2019, by 10%.","[('Boeing', 'ORG'), ('more than 6,000', 'CARDINAL'), ('this week', 'DATE'), ('more than 160,000', 'CARDINAL'), ('2019', 'DATE'), ('10%', 'PERCENT')]"
+80,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"""Don't start leapfrogging over the recommendations of some of the guidelines because that's really tempting fate and asking for trouble,"" Fauci says.","[('Fauci', 'PERSON')]"
+81,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"""I think we'll have to have one more cycle of this virus in the fall, heading into the winter, before we get to a vaccine,"" the former FDA chief told CNBC on Wednesday.","[('one', 'CARDINAL'), ('the fall', 'DATE'), ('the winter', 'DATE'), ('FDA', 'ORG'), ('CNBC', 'ORG'), ('Wednesday', 'DATE')]"
+82,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,Dow futures soar Wednesday as optimism about the reopening of the economy builds.,"[('Wednesday', 'DATE')]"
+83,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"The coronavirus has infected more than 5,710,393 people around the world as of Thursday, killing at least 356,042 people.","[('more than 5,710,393', 'CARDINAL'), ('Thursday', 'DATE'), ('at least 356,042', 'CARDINAL')]"
+84,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,The European Commission has unveiled plans for a 750 billion euro ($826.5 billion) recovery fund as the region faces the worst economic crisis since the 1930s.,"[('The European Commission', 'ORG'), ('a 750 billion euro', 'MONEY'), ('$826.5 billion', 'MONEY'), ('the 1930s', 'DATE')]"
+85,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,Brazil has reported more cases over the last week than any other seven-day period since the outbreak began.,"[('Brazil', 'GPE'), ('the last week', 'DATE'), ('seven-day', 'DATE')]"
