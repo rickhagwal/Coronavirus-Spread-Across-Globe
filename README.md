@@ -5,6 +5,8 @@ Data Scraping from web sources such as- Twitter, news channel websites such as- 
 
 Joined the three datasets collectively and displayed results on Tableau platform.
 
+![alt text](https://github.com/rickhagwal/Coronavirus-Spread-Across-Globe/blob/master/123.PNG)
+
 Data Storytelling on Tableau-
 
 https://public.tableau.com/profile/richa7025#!/vizhome/Coronavirus_static/CoronavirusTimingacrossweb
