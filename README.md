@@ -1,7 +1,7 @@
 # Coronavirus-Spread-Across-Globe
-Coronavirus Spread Across Globe. Data taken from 2019-01-22 onwards till now.
+Coronavirus Spread Across Globe. 
 
-Data Scraping from web sources such as- Twitter, news channel websites such as- CNN, NBC, CNBC etc. and used dataset from John Hopkins University related to coronavirus cases worldwide. And did data cleaning and data manipulation. 
+Data Scraping from web sources such as- Twitter, news channel websites such as- CNN, NBC, CNBC etc. and used dataset from John Hopkins University related to coronavirus cases worldwide. And did data cleaning and data manipulation suing technologies such as - Python, Pandas, Numpy, Scikit-learn, Google Cloud Platform, Twitter API, Google Colab, GPU, Data Visualization tools such as- Matplotlib, Tableau
 
 Joined the three datasets collectively and displayed results on Tableau platform.
 
@@ -9,6 +9,7 @@ Data Storytelling on Tableau-
 
 https://public.tableau.com/profile/richa7025#!/vizhome/Coronavirus_static/CoronavirusTimingacrossweb
 
+Data is taken from 2019-01-22 onwards till now.
 
 References for Raw data collected in different formats(html, csv, xml)-
 
