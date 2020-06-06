@@ -3,13 +3,15 @@ Coronavirus Spread Across Globe.
 
 Data Scraping from web sources such as- Twitter, news channel websites such as- CNN, NBC, CNBC etc. and used dataset from John Hopkins University related to coronavirus cases worldwide. And did data cleaning and data manipulation suing technologies such as - Python, Pandas, Numpy, Scikit-learn, Google Cloud Platform (for accessing geolocation), Twitter API(to retrieve tweets related to coronavirus of a aprticular time period), Google Colab, GPU, Data Visualization tools such as- Matplotlib, Tableau.
 
+Data Storytelling on Tableau-
+
+https://public.tableau.com/profile/richa7025#!/vizhome/Coronavirus_static/CoronavirusTimingacrossweb
+
 Joined the three datasets collectively and displayed results on Tableau platform.
 
 ![alt text](https://github.com/rickhagwal/Coronavirus-Spread-Across-Globe/blob/master/123.PNG)
 
-Data Storytelling on Tableau-
 
-https://public.tableau.com/profile/richa7025#!/vizhome/Coronavirus_static/CoronavirusTimingacrossweb
 
 Data is taken from 2019-01-22 onwards till now.
 
