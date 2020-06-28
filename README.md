@@ -1,5 +1,4 @@
-# Coronavirus-Spread-Across-Globe
-Coronavirus Spread Across Globe. 
+# Coronavirus-Timing-Across-Globe
 
 Data Scraping from web sources such as- Twitter, news channel websites such as- CNN, NBC, CNBC etc. and used dataset from John Hopkins University related to coronavirus cases worldwide. And did data cleaning and data manipulation suing technologies such as - Python, Pandas, Numpy, Scikit-learn, Google Cloud Platform (for accessing geolocation), Twitter API(to retrieve tweets related to coronavirus of a aprticular time period), Google Colab, GPU, Data Visualization tools such as- Matplotlib, Tableau.
 
