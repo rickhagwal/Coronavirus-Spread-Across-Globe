@@ -9,7 +9,8 @@ https://public.tableau.com/profile/richa7025#!/vizhome/Coronavirus_static/Corona
 
 Joined the three datasets collectively and displayed results on Tableau platform.
 
-![alt text](https://github.com/rickhagwal/Coronavirus-Spread-Across-Globe/blob/master/corona.PNG)
+![alt text](https://github.com/rickhagwal/Coronavirus-Spread-Across-Globe/blob/master/corona.png)
+
 
 
 
